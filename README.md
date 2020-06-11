@@ -9,6 +9,7 @@ More information is available over <a href="https://www.UcMadScientist.com/prepa
 
 ## Known Issues
 The script currently doesnt check to see if the exported file exists before running, if it does it appennds to the existing file
+There is currently no Subnet overlap detection. You have to do that on your own.
 
 ## Fork me!
 This script is free, open source and licensed under the MIT Licence. Feel free to view the source, fork it, raise issues and submit your improvements via pull requests.
